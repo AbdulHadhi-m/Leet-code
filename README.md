@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0058-length-of-last-word) |
 ## Array
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0002-add-two-numbers) |
+| [0043-multiply-strings](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0066-plus-one) |
 ## Recursion
 |  |
@@ -34,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
