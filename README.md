@@ -70,4 +70,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0316-remove-duplicate-letters) |
+## Tree
+|  |
+| ------- |
+| [0617-merge-two-binary-trees](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0617-merge-two-binary-trees) |
+## Depth-First Search
+|  |
+| ------- |
+| [0617-merge-two-binary-trees](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0617-merge-two-binary-trees) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0617-merge-two-binary-trees](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0617-merge-two-binary-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0617-merge-two-binary-trees](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0617-merge-two-binary-trees) |
 <!---LeetCode Topics End-->
