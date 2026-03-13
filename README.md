@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0151-reverse-words-in-a-string) |
 | [0316-remove-duplicate-letters](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0316-remove-duplicate-letters) |
+| [0387-first-unique-character-in-a-string](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0387-first-unique-character-in-a-string) |
 | [0415-add-strings](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0415-add-strings) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0709-to-lower-case) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0001-two-sum) |
+| [0387-first-unique-character-in-a-string](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0387-first-unique-character-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AbdulHadhi-m/Leet-code/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Linked List
 |  |
@@ -87,4 +89,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0617-merge-two-binary-trees](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0617-merge-two-binary-trees) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
