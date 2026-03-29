@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0045-jump-game-ii](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0075-sort-colors) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0045-jump-game-ii) |
 | [0316-remove-duplicate-letters](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0316-remove-duplicate-letters) |
 ## Monotonic Stack
 |  |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0005-longest-palindromic-substring) |
+| [0045-jump-game-ii](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0045-jump-game-ii) |
 ## Number Theory
 |  |
 | ------- |
