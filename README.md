@@ -97,10 +97,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0098-validate-binary-search-tree) |
 | [0617-merge-two-binary-trees](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0617-merge-two-binary-trees) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0098-validate-binary-search-tree) |
 | [0617-merge-two-binary-trees](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0617-merge-two-binary-trees) |
 ## Breadth-First Search
 |  |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0098-validate-binary-search-tree) |
 | [0617-merge-two-binary-trees](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0617-merge-two-binary-trees) |
 ## Queue
 |  |
@@ -160,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0046-permutations) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
