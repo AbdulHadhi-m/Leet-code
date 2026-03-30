@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0098-validate-binary-search-tree) |
 | [0617-merge-two-binary-trees](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0617-merge-two-binary-trees) |
 ## Depth-First Search
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0098-validate-binary-search-tree) |
 | [0617-merge-two-binary-trees](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0617-merge-two-binary-trees) |
 ## Queue
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0045-jump-game-ii) |
+| [0095-unique-binary-search-trees-ii](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0095-unique-binary-search-trees-ii) |
 ## Number Theory
 |  |
 | ------- |
@@ -163,8 +166,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0046-permutations) |
+| [0095-unique-binary-search-trees-ii](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0095-unique-binary-search-trees-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
