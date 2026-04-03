@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0300-longest-increasing-subsequence) |
 | [0396-rotate-function](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0396-rotate-function) |
+| [0456-132-pattern](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0456-132-pattern) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AbdulHadhi-m/Leet-code/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/AbdulHadhi-m/Leet-code/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/AbdulHadhi-m/Leet-code/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0224-basic-calculator](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0224-basic-calculator) |
 | [0316-remove-duplicate-letters](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0316-remove-duplicate-letters) |
+| [0456-132-pattern](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0456-132-pattern) |
 ## Greedy
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0316-remove-duplicate-letters) |
+| [0456-132-pattern](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0456-132-pattern) |
 ## Tree
 |  |
 | ------- |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0300-longest-increasing-subsequence) |
+| [0456-132-pattern](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0456-132-pattern) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -196,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0190-reverse-bits) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
