@@ -125,17 +125,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0098-validate-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0199-binary-tree-right-side-view) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0617-merge-two-binary-trees) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0098-validate-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0199-binary-tree-right-side-view) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0617-merge-two-binary-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0199-binary-tree-right-side-view) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0617-merge-two-binary-trees) |
 ## Binary Tree
 |  |
