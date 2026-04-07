@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0023-merge-k-sorted-lists) |
+| [0061-rotate-list](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 ## Math
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0027-remove-element) |
+| [0061-rotate-list](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0125-valid-palindrome) |
