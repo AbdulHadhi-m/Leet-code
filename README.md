@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/AbdulHadhi-m/Leet-code/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2983-palindrome-rearrangement-queries](https://github.com/AbdulHadhi-m/Leet-code/tree/master/2983-palindrome-rearrangement-queries) |
 | [3856-trim-trailing-vowels](https://github.com/AbdulHadhi-m/Leet-code/tree/master/3856-trim-trailing-vowels) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/AbdulHadhi-m/Leet-code/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Array
 |  |
 | ------- |
