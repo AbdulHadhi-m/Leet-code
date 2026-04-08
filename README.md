@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AbdulHadhi-m/Leet-code/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AbdulHadhi-m/Leet-code/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AbdulHadhi-m/Leet-code/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2224-minimum-number-of-operations-to-convert-time](https://github.com/AbdulHadhi-m/Leet-code/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 ## Array
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0402-remove-k-digits) |
 | [1710-maximum-units-on-a-truck](https://github.com/AbdulHadhi-m/Leet-code/tree/master/1710-maximum-units-on-a-truck) |
+| [2224-minimum-number-of-operations-to-convert-time](https://github.com/AbdulHadhi-m/Leet-code/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 ## Monotonic Stack
 |  |
 | ------- |
