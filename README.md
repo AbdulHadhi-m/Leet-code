@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AbdulHadhi-m/Leet-code/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/AbdulHadhi-m/Leet-code/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2983-palindrome-rearrangement-queries](https://github.com/AbdulHadhi-m/Leet-code/tree/master/2983-palindrome-rearrangement-queries) |
+| [3856-trim-trailing-vowels](https://github.com/AbdulHadhi-m/Leet-code/tree/master/3856-trim-trailing-vowels) |
 ## Array
 |  |
 | ------- |
