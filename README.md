@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3838-weighted-word-mapping](https://github.com/AbdulHadhi-m/Leet-code/tree/master/3838-weighted-word-mapping) |
 | [3856-trim-trailing-vowels](https://github.com/AbdulHadhi-m/Leet-code/tree/master/3856-trim-trailing-vowels) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/AbdulHadhi-m/Leet-code/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [3884-first-matching-character-from-both-ends](https://github.com/AbdulHadhi-m/Leet-code/tree/master/3884-first-matching-character-from-both-ends) |
 ## Array
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0151-reverse-words-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0696-count-binary-substrings](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0696-count-binary-substrings) |
+| [3884-first-matching-character-from-both-ends](https://github.com/AbdulHadhi-m/Leet-code/tree/master/3884-first-matching-character-from-both-ends) |
 ## Simulation
 |  |
 | ------- |
