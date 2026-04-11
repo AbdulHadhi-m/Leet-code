@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3856-trim-trailing-vowels](https://github.com/AbdulHadhi-m/Leet-code/tree/master/3856-trim-trailing-vowels) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/AbdulHadhi-m/Leet-code/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/AbdulHadhi-m/Leet-code/tree/master/3884-first-matching-character-from-both-ends) |
+| [3889-mirror-frequency-distance](https://github.com/AbdulHadhi-m/Leet-code/tree/master/3889-mirror-frequency-distance) |
 ## Array
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2983-palindrome-rearrangement-queries](https://github.com/AbdulHadhi-m/Leet-code/tree/master/2983-palindrome-rearrangement-queries) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AbdulHadhi-m/Leet-code/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/AbdulHadhi-m/Leet-code/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
+| [3889-mirror-frequency-distance](https://github.com/AbdulHadhi-m/Leet-code/tree/master/3889-mirror-frequency-distance) |
 ## Linked List
 |  |
 | ------- |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0387-first-unique-character-in-a-string) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/AbdulHadhi-m/Leet-code/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
+| [3889-mirror-frequency-distance](https://github.com/AbdulHadhi-m/Leet-code/tree/master/3889-mirror-frequency-distance) |
 ## Sorting
 |  |
 | ------- |
