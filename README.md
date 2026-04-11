@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2947-count-beautiful-substrings-i](https://github.com/AbdulHadhi-m/Leet-code/tree/master/2947-count-beautiful-substrings-i) |
 | [2983-palindrome-rearrangement-queries](https://github.com/AbdulHadhi-m/Leet-code/tree/master/2983-palindrome-rearrangement-queries) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AbdulHadhi-m/Leet-code/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/AbdulHadhi-m/Leet-code/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3781-maximum-score-after-binary-swaps](https://github.com/AbdulHadhi-m/Leet-code/tree/master/3781-maximum-score-after-binary-swaps) |
 | [3838-weighted-word-mapping](https://github.com/AbdulHadhi-m/Leet-code/tree/master/3838-weighted-word-mapping) |
 | [3856-trim-trailing-vowels](https://github.com/AbdulHadhi-m/Leet-code/tree/master/3856-trim-trailing-vowels) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2947-count-beautiful-substrings-i](https://github.com/AbdulHadhi-m/Leet-code/tree/master/2947-count-beautiful-substrings-i) |
 | [2983-palindrome-rearrangement-queries](https://github.com/AbdulHadhi-m/Leet-code/tree/master/2983-palindrome-rearrangement-queries) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AbdulHadhi-m/Leet-code/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/AbdulHadhi-m/Leet-code/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Linked List
 |  |
 | ------- |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0402-remove-k-digits) |
 | [1710-maximum-units-on-a-truck](https://github.com/AbdulHadhi-m/Leet-code/tree/master/1710-maximum-units-on-a-truck) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/AbdulHadhi-m/Leet-code/tree/master/2224-minimum-number-of-operations-to-convert-time) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/AbdulHadhi-m/Leet-code/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3781-maximum-score-after-binary-swaps](https://github.com/AbdulHadhi-m/Leet-code/tree/master/3781-maximum-score-after-binary-swaps) |
 ## Monotonic Stack
 |  |
@@ -181,11 +184,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0387-first-unique-character-in-a-string) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/AbdulHadhi-m/Leet-code/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0075-sort-colors) |
 | [1710-maximum-units-on-a-truck](https://github.com/AbdulHadhi-m/Leet-code/tree/master/1710-maximum-units-on-a-truck) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/AbdulHadhi-m/Leet-code/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Binary Search
 |  |
 | ------- |
