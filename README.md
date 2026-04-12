@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AbdulHadhi-m/Leet-code/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AbdulHadhi-m/Leet-code/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/AbdulHadhi-m/Leet-code/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2974-minimum-number-game](https://github.com/AbdulHadhi-m/Leet-code/tree/master/2974-minimum-number-game) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/AbdulHadhi-m/Leet-code/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3781-maximum-score-after-binary-swaps](https://github.com/AbdulHadhi-m/Leet-code/tree/master/3781-maximum-score-after-binary-swaps) |
 | [3838-weighted-word-mapping](https://github.com/AbdulHadhi-m/Leet-code/tree/master/3838-weighted-word-mapping) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0495-teemo-attacking) |
+| [2974-minimum-number-game](https://github.com/AbdulHadhi-m/Leet-code/tree/master/2974-minimum-number-game) |
 | [3838-weighted-word-mapping](https://github.com/AbdulHadhi-m/Leet-code/tree/master/3838-weighted-word-mapping) |
 ## Stack
 |  |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0075-sort-colors) |
 | [1710-maximum-units-on-a-truck](https://github.com/AbdulHadhi-m/Leet-code/tree/master/1710-maximum-units-on-a-truck) |
+| [2974-minimum-number-game](https://github.com/AbdulHadhi-m/Leet-code/tree/master/2974-minimum-number-game) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/AbdulHadhi-m/Leet-code/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Binary Search
 |  |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0023-merge-k-sorted-lists) |
+| [2974-minimum-number-game](https://github.com/AbdulHadhi-m/Leet-code/tree/master/2974-minimum-number-game) |
 | [3781-maximum-score-after-binary-swaps](https://github.com/AbdulHadhi-m/Leet-code/tree/master/3781-maximum-score-after-binary-swaps) |
 ## Merge Sort
 |  |
