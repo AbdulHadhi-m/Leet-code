@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1154-day-of-the-year](https://github.com/AbdulHadhi-m/Leet-code/tree/master/1154-day-of-the-year) |
 | [2235-add-two-integers](https://github.com/AbdulHadhi-m/Leet-code/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/AbdulHadhi-m/Leet-code/tree/master/2413-smallest-even-multiple) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/AbdulHadhi-m/Leet-code/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2769-find-the-maximum-achievable-number](https://github.com/AbdulHadhi-m/Leet-code/tree/master/2769-find-the-maximum-achievable-number) |
 | [2947-count-beautiful-substrings-i](https://github.com/AbdulHadhi-m/Leet-code/tree/master/2947-count-beautiful-substrings-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/AbdulHadhi-m/Leet-code/tree/master/3232-find-if-digit-game-can-be-won) |
