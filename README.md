@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0456-132-pattern) |
 | [0495-teemo-attacking](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0495-teemo-attacking) |
 | [0682-baseball-game](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0682-baseball-game) |
+| [1672-richest-customer-wealth](https://github.com/AbdulHadhi-m/Leet-code/tree/master/1672-richest-customer-wealth) |
 | [1710-maximum-units-on-a-truck](https://github.com/AbdulHadhi-m/Leet-code/tree/master/1710-maximum-units-on-a-truck) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AbdulHadhi-m/Leet-code/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/AbdulHadhi-m/Leet-code/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -310,4 +311,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2947-count-beautiful-substrings-i](https://github.com/AbdulHadhi-m/Leet-code/tree/master/2947-count-beautiful-substrings-i) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/AbdulHadhi-m/Leet-code/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
