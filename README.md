@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/AbdulHadhi-m/Leet-code/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AbdulHadhi-m/Leet-code/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/AbdulHadhi-m/Leet-code/tree/master/2224-minimum-number-of-operations-to-convert-time) |
+| [2942-find-words-containing-character](https://github.com/AbdulHadhi-m/Leet-code/tree/master/2942-find-words-containing-character) |
 | [2947-count-beautiful-substrings-i](https://github.com/AbdulHadhi-m/Leet-code/tree/master/2947-count-beautiful-substrings-i) |
 | [2983-palindrome-rearrangement-queries](https://github.com/AbdulHadhi-m/Leet-code/tree/master/2983-palindrome-rearrangement-queries) |
 | [3019-number-of-changing-keys](https://github.com/AbdulHadhi-m/Leet-code/tree/master/3019-number-of-changing-keys) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AbdulHadhi-m/Leet-code/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AbdulHadhi-m/Leet-code/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/AbdulHadhi-m/Leet-code/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2942-find-words-containing-character](https://github.com/AbdulHadhi-m/Leet-code/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/AbdulHadhi-m/Leet-code/tree/master/2974-minimum-number-game) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/AbdulHadhi-m/Leet-code/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3781-maximum-score-after-binary-swaps](https://github.com/AbdulHadhi-m/Leet-code/tree/master/3781-maximum-score-after-binary-swaps) |
