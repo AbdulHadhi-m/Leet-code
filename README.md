@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/AbdulHadhi-m/Leet-code/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2947-count-beautiful-substrings-i](https://github.com/AbdulHadhi-m/Leet-code/tree/master/2947-count-beautiful-substrings-i) |
 | [2983-palindrome-rearrangement-queries](https://github.com/AbdulHadhi-m/Leet-code/tree/master/2983-palindrome-rearrangement-queries) |
+| [3019-number-of-changing-keys](https://github.com/AbdulHadhi-m/Leet-code/tree/master/3019-number-of-changing-keys) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AbdulHadhi-m/Leet-code/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/AbdulHadhi-m/Leet-code/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/AbdulHadhi-m/Leet-code/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
