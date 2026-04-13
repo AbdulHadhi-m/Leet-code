@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0456-132-pattern) |
 | [0495-teemo-attacking](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0495-teemo-attacking) |
 | [0682-baseball-game](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0682-baseball-game) |
+| [0977-squares-of-a-sorted-array](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0977-squares-of-a-sorted-array) |
 | [1550-three-consecutive-odds](https://github.com/AbdulHadhi-m/Leet-code/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/AbdulHadhi-m/Leet-code/tree/master/1672-richest-customer-wealth) |
 | [1710-maximum-units-on-a-truck](https://github.com/AbdulHadhi-m/Leet-code/tree/master/1710-maximum-units-on-a-truck) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0151-reverse-words-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0696-count-binary-substrings](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0696-count-binary-substrings) |
+| [0977-squares-of-a-sorted-array](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/AbdulHadhi-m/Leet-code/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/AbdulHadhi-m/Leet-code/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/AbdulHadhi-m/Leet-code/tree/master/3884-first-matching-character-from-both-ends) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0075-sort-colors) |
+| [0977-squares-of-a-sorted-array](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0977-squares-of-a-sorted-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/AbdulHadhi-m/Leet-code/tree/master/1710-maximum-units-on-a-truck) |
 | [2974-minimum-number-game](https://github.com/AbdulHadhi-m/Leet-code/tree/master/2974-minimum-number-game) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/AbdulHadhi-m/Leet-code/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
