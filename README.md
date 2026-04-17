@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0013-roman-to-integer) |
+| [0160-intersection-of-two-linked-lists](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0387-first-unique-character-in-a-string](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0387-first-unique-character-in-a-string) |
 | [0398-random-pick-index](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0398-random-pick-index) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AbdulHadhi-m/Leet-code/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0160-intersection-of-two-linked-lists) |
 ## Math
 |  |
 | ------- |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0696-count-binary-substrings](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0696-count-binary-substrings) |
 | [0977-squares-of-a-sorted-array](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0977-squares-of-a-sorted-array) |
