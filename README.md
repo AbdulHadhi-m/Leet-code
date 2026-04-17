@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0137-single-number-ii](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0078-subsets) |
 | [0095-unique-binary-search-trees-ii](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0095-unique-binary-search-trees-ii) |
 ## Binary Search Tree
 |  |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0190-reverse-bits) |
 | [1486-xor-operation-in-an-array](https://github.com/AbdulHadhi-m/Leet-code/tree/master/1486-xor-operation-in-an-array) |
