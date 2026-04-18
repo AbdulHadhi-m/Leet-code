@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0067-add-binary) |
 | [0097-interleaving-string](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0125-valid-palindrome) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0067-add-binary) |
 | [0224-basic-calculator](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0224-basic-calculator) |
 | [0258-add-digits](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0258-add-digits) |
 | [0396-rotate-function](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0396-rotate-function) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0495-teemo-attacking) |
@@ -318,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0190-reverse-bits) |
