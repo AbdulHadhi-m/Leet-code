@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0434-number-of-segments-in-a-string) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0696-count-binary-substrings) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0396-rotate-function) |
 | [0456-132-pattern](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0456-132-pattern) |
 | [0495-teemo-attacking](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0495-teemo-attacking) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0682-baseball-game](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0682-baseball-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0977-squares-of-a-sorted-array) |
 | [1550-three-consecutive-odds](https://github.com/AbdulHadhi-m/Leet-code/tree/master/1550-three-consecutive-odds) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0160-intersection-of-two-linked-lists) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0696-count-binary-substrings](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0696-count-binary-substrings) |
 | [0977-squares-of-a-sorted-array](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0977-squares-of-a-sorted-array) |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0075-sort-colors) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0977-squares-of-a-sorted-array](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0977-squares-of-a-sorted-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/AbdulHadhi-m/Leet-code/tree/master/1710-maximum-units-on-a-truck) |
 | [2974-minimum-number-game](https://github.com/AbdulHadhi-m/Leet-code/tree/master/2974-minimum-number-game) |
