@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0709-to-lower-case) |
+| [0748-shortest-completing-word](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0748-shortest-completing-word) |
 | [1154-day-of-the-year](https://github.com/AbdulHadhi-m/Leet-code/tree/master/1154-day-of-the-year) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AbdulHadhi-m/Leet-code/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AbdulHadhi-m/Leet-code/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0682-baseball-game](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0682-baseball-game) |
+| [0748-shortest-completing-word](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0748-shortest-completing-word) |
 | [0977-squares-of-a-sorted-array](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0977-squares-of-a-sorted-array) |
 | [1550-three-consecutive-odds](https://github.com/AbdulHadhi-m/Leet-code/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/AbdulHadhi-m/Leet-code/tree/master/1672-richest-customer-wealth) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0387-first-unique-character-in-a-string) |
 | [0398-random-pick-index](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0398-random-pick-index) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0748-shortest-completing-word](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0748-shortest-completing-word) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AbdulHadhi-m/Leet-code/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AbdulHadhi-m/Leet-code/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2947-count-beautiful-substrings-i](https://github.com/AbdulHadhi-m/Leet-code/tree/master/2947-count-beautiful-substrings-i) |
