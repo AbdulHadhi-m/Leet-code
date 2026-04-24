@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0137-single-number-ii](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0300-longest-increasing-subsequence) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0199-binary-tree-right-side-view) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0617-merge-two-binary-trees) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0199-binary-tree-right-side-view) |
 | [0617-merge-two-binary-trees](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0617-merge-two-binary-trees) |
 ## Queue
@@ -292,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0190-reverse-bits](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0190-reverse-bits) |
 ## Sliding Window
 |  |
@@ -342,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
