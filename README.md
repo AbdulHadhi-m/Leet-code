@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0078-subsets) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0055-jump-game) |
 | [0316-remove-duplicate-letters](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0402-remove-k-digits) |
 | [1710-maximum-units-on-a-truck](https://github.com/AbdulHadhi-m/Leet-code/tree/master/1710-maximum-units-on-a-truck) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0062-unique-paths) |
 | [0095-unique-binary-search-trees-ii](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0095-unique-binary-search-trees-ii) |
 | [0097-interleaving-string](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0097-interleaving-string) |
