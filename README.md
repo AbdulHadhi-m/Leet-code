@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0137-single-number-ii](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0137-single-number-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0300-longest-increasing-subsequence) |
 | [0396-rotate-function](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0396-rotate-function) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0067-add-binary) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0171-excel-sheet-column-number) |
 | [0224-basic-calculator](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0224-basic-calculator) |
 | [0258-add-digits](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0258-add-digits) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0094-binary-tree-inorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0224-basic-calculator) |
 | [0316-remove-duplicate-letters](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0402-remove-k-digits) |
