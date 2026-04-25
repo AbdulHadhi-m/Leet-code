@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0217-contains-duplicate) |
 | [0300-longest-increasing-subsequence](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0300-longest-increasing-subsequence) |
 | [0396-rotate-function](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0396-rotate-function) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0456-132-pattern](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0456-132-pattern) |
 | [0495-teemo-attacking](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0495-teemo-attacking) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0524-longest-word-in-dictionary-through-deleting) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0387-first-unique-character-in-a-string) |
 | [0398-random-pick-index](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0398-random-pick-index) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0748-shortest-completing-word](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0748-shortest-completing-word) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AbdulHadhi-m/Leet-code/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
