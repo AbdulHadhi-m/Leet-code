@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0525-contiguous-array](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0525-contiguous-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0682-baseball-game) |
 | [0748-shortest-completing-word](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0748-shortest-completing-word) |
 | [0977-squares-of-a-sorted-array](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0977-squares-of-a-sorted-array) |
