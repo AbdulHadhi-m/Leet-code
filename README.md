@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0456-132-pattern) |
 | [0495-teemo-attacking](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0495-teemo-attacking) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0525-contiguous-array](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0525-contiguous-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0682-baseball-game](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0682-baseball-game) |
 | [0748-shortest-completing-word](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0748-shortest-completing-word) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0387-first-unique-character-in-a-string) |
 | [0398-random-pick-index](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0398-random-pick-index) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0525-contiguous-array](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0525-contiguous-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0748-shortest-completing-word](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0748-shortest-completing-word) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AbdulHadhi-m/Leet-code/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0525-contiguous-array) |
 | [2947-count-beautiful-substrings-i](https://github.com/AbdulHadhi-m/Leet-code/tree/master/2947-count-beautiful-substrings-i) |
 | [2983-palindrome-rearrangement-queries](https://github.com/AbdulHadhi-m/Leet-code/tree/master/2983-palindrome-rearrangement-queries) |
 ## Enumeration
