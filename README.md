@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0119-pascals-triangle-ii](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0119-pascals-triangle-ii) |
 | [0137-single-number-ii](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0095-unique-binary-search-trees-ii) |
 | [0097-interleaving-string](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0115-distinct-subsequences) |
+| [0119-pascals-triangle-ii](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0119-pascals-triangle-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0300-longest-increasing-subsequence) |
 | [0396-rotate-function](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0396-rotate-function) |
 ## Number Theory
