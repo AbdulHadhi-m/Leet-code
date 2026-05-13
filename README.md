@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0396-rotate-function](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0396-rotate-function) |
+| [0447-number-of-boomerangs](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0447-number-of-boomerangs) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0456-132-pattern](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0456-132-pattern) |
 | [0495-teemo-attacking](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0495-teemo-attacking) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0387-first-unique-character-in-a-string) |
 | [0398-random-pick-index](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0398-random-pick-index) |
+| [0447-number-of-boomerangs](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0447-number-of-boomerangs) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0525-contiguous-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0398-random-pick-index](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0398-random-pick-index) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0415-add-strings) |
+| [0447-number-of-boomerangs](https://github.com/AbdulHadhi-m/Leet-code/tree/master/0447-number-of-boomerangs) |
 | [1154-day-of-the-year](https://github.com/AbdulHadhi-m/Leet-code/tree/master/1154-day-of-the-year) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AbdulHadhi-m/Leet-code/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/AbdulHadhi-m/Leet-code/tree/master/1486-xor-operation-in-an-array) |
